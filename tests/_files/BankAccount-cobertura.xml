@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage line-rate="" branch-rate="" lines-covered="" lines-valid="" branches-covered="" branches-valid="" complexity="" version="0.4" timestamp="%i">
+  <sources>
+    <source>%s</source>
+  </sources>
+  <packages>
+    <package>
+      <class name="BankAccount" filename="tests/_files/BankAccount.php" line-rate="" branch-rate="" complexity="5">
+        <methods>
+          <method name="getBalance" signature="" line-rate="" branch-rate="" complexity="1">
+            <lines>
+              <line number="6" hits="2"/>
+            </lines>
+          </method>
+          <method name="setBalance" signature="" line-rate="" branch-rate="" complexity="2">
+            <lines>
+              <line number="11" hits="0"/>
+            </lines>
+          </method>
+          <method name="depositMoney" signature="" line-rate="" branch-rate="" complexity="1">
+            <lines>
+              <line number="20" hits="2"/>
+            </lines>
+          </method>
+          <method name="withdrawMoney" signature="" line-rate="" branch-rate="" complexity="1">
+            <lines>
+              <line number="27" hits="2"/>
+            </lines>
+          </method>
+        </methods>
+        <lines>
+          <line number="8" hits="2"/>
+          <line number="13" hits="0"/>
+          <line number="14" hits="0"/>
+          <line number="15" hits="0"/>
+          <line number="16" hits="0"/>
+          <line number="18" hits="0"/>
+          <line number="22" hits="2"/>
+          <line number="24" hits="1"/>
+          <line number="29" hits="2"/>
+          <line number="31" hits="1"/>
+        </lines>
+      </class>
+    </package>
+  </packages>
+</coverage>

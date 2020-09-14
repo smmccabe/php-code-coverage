@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage line-rate="" branch-rate="" lines-covered="" lines-valid="" branches-covered="" branches-valid="" complexity="" version="0.4" timestamp="%i">
+  <sources>
+    <source>%s</source>
+  </sources>
+  <packages>
+    <package>
+      <class name="CoveredClassWithAnonymousFunctionInStaticMethod" filename="tests/_files/source_with_class_and_anonymous_function.php" line-rate="" branch-rate="" complexity="1">
+        <methods>
+          <method name="runAnonymous" signature="" line-rate="" branch-rate="" complexity="1">
+            <lines>
+              <line number="5" hits="1"/>
+            </lines>
+          </method>
+        </methods>
+        <lines>
+          <line number="7" hits="1"/>
+          <line number="9" hits="1"/>
+          <line number="10" hits="0"/>
+          <line number="12" hits="1"/>
+          <line number="13" hits="1"/>
+          <line number="14" hits="1"/>
+          <line number="17" hits="1"/>
+          <line number="18" hits="1"/>
+        </lines>
+      </class>
+    </package>
+  </packages>
+</coverage>

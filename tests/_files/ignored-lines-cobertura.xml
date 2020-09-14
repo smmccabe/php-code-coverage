@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage line-rate="" branch-rate="" lines-covered="" lines-valid="" branches-covered="" branches-valid="" complexity="" version="0.4" timestamp="%i">
+  <sources>
+    <source>%s</source>
+  </sources>
+  <packages>
+    <package>
+      <class name="Foo" filename="tests/_files/source_with_ignore.php" line-rate="" branch-rate="" complexity="1">
+        <methods/>
+        <lines/>
+      </class>
+      <class name="Bar" filename="tests/_files/source_with_ignore.php" line-rate="" branch-rate="" complexity="1">
+        <methods/>
+        <lines/>
+      </class>
+    </package>
+  </packages>
+</coverage>
